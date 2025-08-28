@@ -1,1 +1,3 @@
 lite text i filen
+lite mer text i filen
+Lite mera text i filen
